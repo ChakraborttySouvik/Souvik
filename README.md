@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website showcasing my journey as a Pytho
 
 ## 🚀 Live Demo
 
-Visit the live website: [https://your-username.github.io/portfolio](https://your-username.github.io/portfolio)
+Visit the live website: [https://your-username.github.io/portfolio](https://ChakraborttySouvik.io/Souvik)
 
 ## 📋 Features
 
